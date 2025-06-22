@@ -1,0 +1,20 @@
+p.odd-num{
+    background-color: pink;
+    font-family:"Verdana","DejaVu Sans","sans-serif";
+}
+
+#num3{
+    font-size: 24px;
+    
+}
+
+.second-num{
+    color: blue;
+    font-size: 36px;
+}
+
+.fourth-num{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
